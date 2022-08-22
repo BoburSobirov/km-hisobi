@@ -1,0 +1,24 @@
+*{
+    box-sizing: border-box;
+}
+
+.container{
+    width: 500px;
+    height: 450px;
+    border: 1px solid;
+    border-radius: 24px;
+    margin: 0 auto;
+    align-items: center;
+    padding-top: 25px;
+}
+#input{
+    margin-left: 125px;
+}
+.speed-list{
+    margin-left: -100px;
+    display: flex;
+    list-style: none;
+}
+.speed-item{
+    margin-left: 75px;
+}
